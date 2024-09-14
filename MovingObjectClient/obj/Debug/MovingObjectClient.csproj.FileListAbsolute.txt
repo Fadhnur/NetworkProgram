@@ -1,0 +1,10 @@
+E:\icha\GitHub\NetworkProgram\MovingObjectClient\bin\Debug\MovingObjectClient.exe.config
+E:\icha\GitHub\NetworkProgram\MovingObjectClient\bin\Debug\MovingObjectClient.exe
+E:\icha\GitHub\NetworkProgram\MovingObjectClient\bin\Debug\MovingObjectClient.pdb
+E:\icha\GitHub\NetworkProgram\MovingObjectClient\obj\Debug\MovingObjectClient.csproj.AssemblyReference.cache
+E:\icha\GitHub\NetworkProgram\MovingObjectClient\obj\Debug\MovingObjectClient.Properties.Resources.resources
+E:\icha\GitHub\NetworkProgram\MovingObjectClient\obj\Debug\MovingObjectClient.csproj.GenerateResource.cache
+E:\icha\GitHub\NetworkProgram\MovingObjectClient\obj\Debug\MovingObjectClient.csproj.CoreCompileInputs.cache
+E:\icha\GitHub\NetworkProgram\MovingObjectClient\obj\Debug\MovingObjectClient.exe
+E:\icha\GitHub\NetworkProgram\MovingObjectClient\obj\Debug\MovingObjectClient.pdb
+E:\icha\GitHub\NetworkProgram\MovingObjectClient\obj\Debug\MovingObjectClient.Form1.resources

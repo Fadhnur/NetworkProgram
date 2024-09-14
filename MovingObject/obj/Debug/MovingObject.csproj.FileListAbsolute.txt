@@ -1,0 +1,20 @@
+E:\icha\Kuliah\Semester 5\Pemrograman Jaringan Komputer\NetworkProgramming-master\MovingObject\bin\Debug\MovingObject.exe.config
+E:\icha\Kuliah\Semester 5\Pemrograman Jaringan Komputer\NetworkProgramming-master\MovingObject\bin\Debug\MovingObject.exe
+E:\icha\Kuliah\Semester 5\Pemrograman Jaringan Komputer\NetworkProgramming-master\MovingObject\bin\Debug\MovingObject.pdb
+E:\icha\Kuliah\Semester 5\Pemrograman Jaringan Komputer\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.csproj.AssemblyReference.cache
+E:\icha\Kuliah\Semester 5\Pemrograman Jaringan Komputer\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.Form1.resources
+E:\icha\Kuliah\Semester 5\Pemrograman Jaringan Komputer\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.Properties.Resources.resources
+E:\icha\Kuliah\Semester 5\Pemrograman Jaringan Komputer\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.csproj.GenerateResource.cache
+E:\icha\Kuliah\Semester 5\Pemrograman Jaringan Komputer\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.csproj.CoreCompileInputs.cache
+E:\icha\Kuliah\Semester 5\Pemrograman Jaringan Komputer\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.exe
+E:\icha\Kuliah\Semester 5\Pemrograman Jaringan Komputer\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.pdb
+E:\icha\GitHub\NetworkProgram\MovingObject\bin\Debug\MovingObject.exe.config
+E:\icha\GitHub\NetworkProgram\MovingObject\bin\Debug\MovingObject.exe
+E:\icha\GitHub\NetworkProgram\MovingObject\bin\Debug\MovingObject.pdb
+E:\icha\GitHub\NetworkProgram\MovingObject\obj\Debug\MovingObject.csproj.AssemblyReference.cache
+E:\icha\GitHub\NetworkProgram\MovingObject\obj\Debug\MovingObject.Properties.Resources.resources
+E:\icha\GitHub\NetworkProgram\MovingObject\obj\Debug\MovingObject.csproj.GenerateResource.cache
+E:\icha\GitHub\NetworkProgram\MovingObject\obj\Debug\MovingObject.csproj.CoreCompileInputs.cache
+E:\icha\GitHub\NetworkProgram\MovingObject\obj\Debug\MovingObject.exe
+E:\icha\GitHub\NetworkProgram\MovingObject\obj\Debug\MovingObject.pdb
+E:\icha\GitHub\NetworkProgram\MovingObject\obj\Debug\MovingObjectServer.Form1.resources
